@@ -15,19 +15,19 @@ This project focuses on predicting the success of a bank marketing campaign usin
 * Evaluation
 
 #### Dataset
-The dataset used for this project is bank-additional-full.csv. It contains various features such as age, job, marital status, education, and information about the last contact with the client, among others.
+The dataset used for this project is banking.csv. It contains various features such as age, job, marital status, education, and information about the last contact with the client, among others.
 
 #### Exploratory Data Analysis (EDA)
-Explore the dataset to gain insights into the data distribution, relationships between features, and identify potential patterns. The EDA notebook can be found at notebooks/EDA.ipynb.
+Explore the dataset to gain insights into the data distribution, relationships between features, and identify potential patterns.
 
 #### Data Preprocessing
-Clean and preprocess the data to handle missing values, encode categorical variables, and scale numerical features. The preprocessing notebook can be found at notebooks/Data_Preprocessing.ipynb.
+Clean and preprocess the data to handle missing values, encode categorical variables, and scale numerical features. 
 
 #### Feature Engineering
-Create new features or transform existing ones to improve the model's performance. The feature engineering notebook can be found at notebooks/Feature_Engineering.ipynb.
+Create new features or transform existing ones to improve the model's performance. 
 
 #### Model Building
-Build and train machine learning models using the preprocessed data. Evaluate different algorithms and choose the best-performing one. The model building notebook can be found at notebooks/Model_Building.ipynb.
+Build and train machine learning models using the preprocessed data. Evaluate different algorithms and choose the best-performing one. 
 
 #### Evaluation
-Evaluate the model's performance using relevant metrics and visualize the results. The evaluation notebook can be found at Banking-Marketing Prediction Project.ipynb.
+Evaluate the model's performance using relevant metrics and visualize the results. 
